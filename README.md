@@ -19,21 +19,6 @@ WeatherAPI.com for live weather data
 CSS for styling
 Font Awesome for icons
 
-📂 Project Structure
-src/
-├── components/
-│   ├── SearchBar.vue
-│   ├── CurrentWeather.vue
-│   ├── ForecastDisplay.vue
-│   ├── LoadingSpinner.vue
-│   └── ErrorMessage.vue
-├── services/
-│   └── weatherService.js
-├── utils/
-│   └── formatters.js
-├── App.vue
-└── main.js
-
 
 
 ▶️ How to Run the Project
